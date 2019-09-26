@@ -1,0 +1,35 @@
+body{
+    font-size: 75%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fffff0;
+    color: #000080;
+    margin: 10px;
+}
+
+h1{
+    font-size: 200%;
+}
+h2{
+    font-size: 140%;
+}
+h3{
+    font-size: 110%;
+}
+
+th{
+    background-color: #add8e6;
+}
+
+ul{
+    list-style-type: circle;
+}
+ol{
+    list-style-type: upper-roman;
+}
+
+a:link{
+    color: #000080;
+}
+a:hover{
+    color: red;
+}

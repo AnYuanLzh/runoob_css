@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#mydiv1{
+    border: 1px solid black;
+    width: 90%;
+    padding: 14px;
+    margin: 10px 10px 10px 10px;
+}
+
+#mydiv2{
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
+    width: 90%;
+    padding: 14px;
+    margin: 10px 10px 10px 10px;
+}
+
+#mydiv3{
+    border: 1px solid #cccccc;
+    border-radius: 16px;
+    width: 90%;
+    padding: 14px;
+    margin: 10px 10px 10px 10px;
+}
+
+#mydiv4{
+    border-left-width: 6px;
+    border-left-style: solid;
+    border-left-color: #2196f3;
+    background-color: #ddffff;
+    width: 90%;
+    padding: 14px;
+    margin: 10px 10px 10px 10px;
+}
